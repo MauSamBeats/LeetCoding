@@ -20,12 +20,27 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
