@@ -7,6 +7,7 @@ I post my leetcode daily solutions here!
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MauSamBeats/LeetCoding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -43,4 +44,12 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
