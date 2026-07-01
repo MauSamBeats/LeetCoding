@@ -47,6 +47,7 @@ I post my leetcode daily solutions here!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0148-sort-list) |
 ## Two Pointers
@@ -66,4 +67,12 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
