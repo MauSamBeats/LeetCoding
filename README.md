@@ -22,6 +22,7 @@ I post my leetcode daily solutions here!
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,10 +33,12 @@ I post my leetcode daily solutions here!
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -44,6 +47,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -75,4 +79,12 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
