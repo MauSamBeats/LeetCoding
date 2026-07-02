@@ -52,11 +52,13 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0148-sort-list) |
 ## Divide and Conquer
