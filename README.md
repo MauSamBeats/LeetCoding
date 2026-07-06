@@ -20,6 +20,7 @@ I post my leetcode daily solutions here!
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -33,6 +34,7 @@ I post my leetcode daily solutions here!
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -100,6 +102,7 @@ I post my leetcode daily solutions here!
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/MauSamBeats/LeetCoding/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
