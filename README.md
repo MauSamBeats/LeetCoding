@@ -86,6 +86,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
