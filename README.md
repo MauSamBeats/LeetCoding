@@ -13,6 +13,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MauSamBeats/LeetCoding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ I post my leetcode daily solutions here!
 | ------- |
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -115,4 +117,8 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MauSamBeats/LeetCoding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
