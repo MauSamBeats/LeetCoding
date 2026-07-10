@@ -28,6 +28,7 @@ I post my leetcode daily solutions here!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MauSamBeats/LeetCoding/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ I post my leetcode daily solutions here!
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MauSamBeats/LeetCoding/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -74,6 +76,7 @@ I post my leetcode daily solutions here!
 | [0061-rotate-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0148-sort-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +86,7 @@ I post my leetcode daily solutions here!
 | ------- |
 | [0148-sort-list](https://github.com/MauSamBeats/LeetCoding/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/MauSamBeats/LeetCoding/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -103,6 +107,7 @@ I post my leetcode daily solutions here!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MauSamBeats/LeetCoding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MauSamBeats/LeetCoding/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -113,6 +118,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MauSamBeats/LeetCoding/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -126,4 +132,12 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
