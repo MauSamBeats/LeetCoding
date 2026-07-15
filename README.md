@@ -100,6 +100,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MauSamBeats/LeetCoding/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -151,4 +152,8 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/MauSamBeats/LeetCoding/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MauSamBeats/LeetCoding/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
