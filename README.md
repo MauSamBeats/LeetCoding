@@ -26,6 +26,7 @@ I post my leetcode daily solutions here!
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MauSamBeats/LeetCoding/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/MauSamBeats/LeetCoding/tree/master/1331-rank-transform-of-an-array) |
@@ -50,6 +51,7 @@ I post my leetcode daily solutions here!
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -177,6 +179,7 @@ I post my leetcode daily solutions here!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MauSamBeats/LeetCoding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
