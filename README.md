@@ -35,6 +35,7 @@ I post my leetcode daily solutions here!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MauSamBeats/LeetCoding/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MauSamBeats/LeetCoding/tree/master/3620-network-recovery-pathways) |
@@ -113,6 +114,7 @@ I post my leetcode daily solutions here!
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MauSamBeats/LeetCoding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MauSamBeats/LeetCoding/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MauSamBeats/LeetCoding/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -163,6 +165,7 @@ I post my leetcode daily solutions here!
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
