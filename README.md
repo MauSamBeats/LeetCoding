@@ -27,6 +27,7 @@ I post my leetcode daily solutions here!
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MauSamBeats/LeetCoding/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/MauSamBeats/LeetCoding/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MauSamBeats/LeetCoding/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
@@ -116,6 +117,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/MauSamBeats/LeetCoding/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MauSamBeats/LeetCoding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MauSamBeats/LeetCoding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -128,6 +130,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MauSamBeats/LeetCoding/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/MauSamBeats/LeetCoding/tree/master/0486-predict-the-winner) |
 ## Graph Theory
 |  |
 | ------- |
@@ -145,6 +148,7 @@ I post my leetcode daily solutions here!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MauSamBeats/LeetCoding/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/MauSamBeats/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/MauSamBeats/LeetCoding/tree/master/3620-network-recovery-pathways) |
@@ -211,4 +215,8 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MauSamBeats/LeetCoding/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
