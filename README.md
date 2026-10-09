@@ -17,6 +17,7 @@ I post my leetcode daily solutions here!
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MauSamBeats/LeetCoding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MauSamBeats/LeetCoding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MauSamBeats/LeetCoding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MauSamBeats/LeetCoding/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -173,6 +174,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MauSamBeats/LeetCoding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MauSamBeats/LeetCoding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MauSamBeats/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -210,6 +212,7 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MauSamBeats/LeetCoding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MauSamBeats/LeetCoding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -231,4 +234,8 @@ I post my leetcode daily solutions here!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/MauSamBeats/LeetCoding/tree/master/1406-stone-game-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MauSamBeats/LeetCoding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
